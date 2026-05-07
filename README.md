@@ -12,6 +12,7 @@ Skills Used in This Project:
 - Azure Data Factory
 - ETL/ELT
 
+'''text
 # Project structure:-
 de_project/
 ├── docs/
@@ -62,6 +63,6 @@ de_project/
 │   │    │      └── parquet_write.py
 │   ├── test/
 │   │    ├── scratch_pad.py.py
-│   │    └── generate_csv_data.py
+│   │    └── generate_csv_data.py '''
 
 
