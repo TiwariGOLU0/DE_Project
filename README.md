@@ -3,8 +3,7 @@ Implemented environment-specific configurations for DEV, QA, and PROD deployment
 
 The code has been meticulously crafted with careful consideration for various aspects. It not only nurtures your coding skills but also imparts a comprehensive comprehension of project structures.
 
-
-Skills Used in This Project:
+# Skills Used in This Project:
 - Python
 - SQL
 - PySpark
@@ -12,8 +11,8 @@ Skills Used in This Project:
 - Azure Data Factory
 - ETL/ELT
 
-'''text
 # Project structure:-
+'''text
 de_project/
 ├── docs/
 │   └── readme.md
@@ -63,7 +62,8 @@ de_project/
 │   │    │      └── parquet_write.py
 │   ├── test/
 │   │    ├── scratch_pad.py.py
-│   │    └── generate_csv_data.py '''
+│   │    └── generate_csv_data.py 
+'''
 
 ## Project Structure
 
