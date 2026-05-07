@@ -65,4 +65,23 @@ de_project/
 │   │    ├── scratch_pad.py.py
 │   │    └── generate_csv_data.py '''
 
+## Project Structure
+
+```text
+my_project/
+├── docs/
+│   └── readme.md
+├── resources/
+│   ├── __init__.py
+│   ├── dev/
+│   │   ├── config.py
+│   │   └── requirement.txt
+│   ├── qa/
+│   │   ├── config.py
+│   │   └── requirement.txt
+│   └── prod/
+│       ├── config.py
+│       └── requirement.txt
+```
+
 
